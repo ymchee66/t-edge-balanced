@@ -68,12 +68,13 @@ own subfolder under `results/`, containing:
 | 114 | 3151 | results/n114_k3151/|
 | 139 | 3570 | results/n139_k3570/|
 | 203 | 5644 | results/n203_k5644/|
+| 229 | 11546 | results/n229_k11546/|
 | 255 | 8321 | results/n255_k8321/|
 | 309 | 2976 | results/n309_k2976/|
 
-The first three parameter sets $(n,k) = (13,21)$, $(21,66)$, $(34,260)$ are
-the three smallest for which a 3-edge-balanced graph can exist, as proved in
-the paper. All ten parameter sets satisfy the necessary arithmetic conditions
+The first 10 parameter sets are
+the 10 smallest for which a 3-edge-balanced graph can exist, as proved in
+the paper. All 11 parameter sets satisfy the necessary arithmetic conditions
 (C1) and (C2) derived in the paper.
 
 ## Requirements
