@@ -1,0 +1,5 @@
+src/swap3
+src/verify3
+deg_*.txt
+graph_*.g6
+__pycache__/
